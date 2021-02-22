@@ -1,2 +1,3 @@
 # uttrakhand-wonders
-A simple responsive website containing various tourist places in Uttrakhand, not only Char Dhams ( Badrinath, Kedarnath, Gangotri and Yamnotri) but also few more.
+A simple responsive website containing various tourist places in Uttrakhand, not only Char Dhams ( Badrinath, Kedarnath, Gangotri and Yamnotri) but also few more.The work
+is still in progress.
